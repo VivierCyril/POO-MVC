@@ -1,0 +1,55 @@
+create table orders (
+	id INT AUTO_INCREMENT PRIMARY KEY,
+	status INT,
+	shipped_at DATETIME
+);
+insert into orders (id, status, shipped_at) values (1, 1, '2024-03-28');
+insert into orders (id, status, shipped_at) values (2, 2, '2024-02-21');
+insert into orders (id, status, shipped_at) values (3, 2, '2023-05-19');
+insert into orders (id, status, shipped_at) values (4, 1, '2024-04-08');
+insert into orders (id, status, shipped_at) values (5, 1, '2024-01-11');
+insert into orders (id, status, shipped_at) values (6, 1, '2023-07-21');
+insert into orders (id, status, shipped_at) values (7, 2, '2023-08-19');
+insert into orders (id, status, shipped_at) values (8, 2, '2023-11-23');
+insert into orders (id, status, shipped_at) values (9, 3, '2023-04-19');
+insert into orders (id, status, shipped_at) values (10, 2, '2023-05-22');
+insert into orders (id, status, shipped_at) values (11, 3, '2023-11-10');
+insert into orders (id, status, shipped_at) values (12, 1, '2023-09-11');
+insert into orders (id, status, shipped_at) values (13, 2, '2023-08-22');
+insert into orders (id, status, shipped_at) values (14, 2, '2024-04-15');
+insert into orders (id, status, shipped_at) values (15, 1, '2023-08-21');
+insert into orders (id, status, shipped_at) values (16, 1, '2023-09-26');
+insert into orders (id, status, shipped_at) values (17, 2, '2023-10-31');
+insert into orders (id, status, shipped_at) values (18, 2, '2023-06-01');
+insert into orders (id, status, shipped_at) values (19, 2, '2024-02-09');
+insert into orders (id, status, shipped_at) values (20, 3, '2023-08-02');
+insert into orders (id, status, shipped_at) values (21, 2, '2024-03-23');
+insert into orders (id, status, shipped_at) values (22, 3, '2024-02-13');
+insert into orders (id, status, shipped_at) values (23, 3, '2023-07-25');
+insert into orders (id, status, shipped_at) values (24, 1, '2023-12-21');
+insert into orders (id, status, shipped_at) values (25, 2, '2023-04-26');
+insert into orders (id, status, shipped_at) values (26, 1, '2024-04-04');
+insert into orders (id, status, shipped_at) values (27, 1, '2023-09-24');
+insert into orders (id, status, shipped_at) values (28, 2, '2023-10-20');
+insert into orders (id, status, shipped_at) values (29, 1, '2024-04-09');
+insert into orders (id, status, shipped_at) values (30, 1, '2023-06-27');
+insert into orders (id, status, shipped_at) values (31, 3, '2024-04-08');
+insert into orders (id, status, shipped_at) values (32, 3, '2024-03-11');
+insert into orders (id, status, shipped_at) values (33, 2, '2024-03-22');
+insert into orders (id, status, shipped_at) values (34, 1, '2023-07-13');
+insert into orders (id, status, shipped_at) values (35, 1, '2024-03-12');
+insert into orders (id, status, shipped_at) values (36, 3, '2023-05-23');
+insert into orders (id, status, shipped_at) values (37, 2, '2023-08-01');
+insert into orders (id, status, shipped_at) values (38, 2, '2023-08-10');
+insert into orders (id, status, shipped_at) values (39, 2, '2023-08-21');
+insert into orders (id, status, shipped_at) values (40, 3, '2024-02-05');
+insert into orders (id, status, shipped_at) values (41, 1, '2024-03-21');
+insert into orders (id, status, shipped_at) values (42, 1, '2023-05-06');
+insert into orders (id, status, shipped_at) values (43, 3, '2023-09-23');
+insert into orders (id, status, shipped_at) values (44, 3, '2023-06-17');
+insert into orders (id, status, shipped_at) values (45, 2, '2023-12-11');
+insert into orders (id, status, shipped_at) values (46, 2, '2024-01-02');
+insert into orders (id, status, shipped_at) values (47, 1, '2023-10-29');
+insert into orders (id, status, shipped_at) values (48, 2, '2023-05-26');
+insert into orders (id, status, shipped_at) values (49, 1, '2023-10-29');
+insert into orders (id, status, shipped_at) values (50, 3, '2023-11-28');
